@@ -15,8 +15,8 @@ This repository enables developers to:
 ---
 
 ## 📛 Badges
-![Python](https://img.shields.io/badge/python-3.10+%2B-blue.svg?style=for-the-badge&logo=python)
-![PyTorch](https://img.shieldshttps#) 
+![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg?style=for-the-badge&logo=python3)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.9%2B-red.svg?style=for-the-badge&logo=PyTorch-2)
 
 ---
 
@@ -35,10 +35,10 @@ This repository enables developers to:
 
 ---
 
-## 🧠 Architecture Diagram
+## 🧠 Architecture & Training Workflow Diagram
 
 
-!]Model Architecture](images/model_architecture.jpg)
+![Model Architecture](images/model_architecture.jpg)
 
 ![Training Workflow](images/training_workflow.jpg)
 
