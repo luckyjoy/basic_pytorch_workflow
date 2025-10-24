@@ -40,9 +40,6 @@ This repository enables developers to:
 
 ![Model Architecture](images/model_architecture.jpg)
 
----
-
-
 ![Training Workflow](images/training_workflow.jpg)
 
 
