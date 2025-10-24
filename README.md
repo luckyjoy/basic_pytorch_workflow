@@ -15,8 +15,8 @@ This repository enables developers to:
 ---
 
 ## 📛 Badges
-![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg?style=for-the-badge&logo=python)
-![PyTorch](https://img.shieldshttps# 
+![Python](https://img.shields.io/badge/python-3.10+%2B-blue.svg?style=for-the-badge&logo=python)
+![PyTorch](https://img.shieldshttps#) 
 
 ---
 
