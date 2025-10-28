@@ -2,7 +2,7 @@
 
 ## 🧠 Overview
 
-A self-contained Python script (`recurrent_neural_network.py`) that serves as a complete reference for modern PyTorch development. It demonstrates foundational concepts and production-ready techniques for building robust deep learning models.
+A self-contained Python script (`workflow.py`) that serves as a complete reference for modern PyTorch development. It demonstrates foundational concepts and production-ready techniques for building robust deep learning models.
 
 This repository enables developers to:
 
