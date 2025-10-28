@@ -12,6 +12,8 @@ tmp
 *.img
 *.vdi
 *.vmdk
+*.pth
+*.pt
 
 # Reports & logs
 *.log
@@ -27,6 +29,7 @@ __pycache__/
 .tox/
 .eggs/
 .bat
+
 
 # Build/virtualenv
 .env/

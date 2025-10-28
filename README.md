@@ -55,6 +55,9 @@ cd basic_pytorch_workflow
 pip install -r requirements.txt
 ```
 
+### 2. Running:
+python workflow.py
+
 ---
 
 
